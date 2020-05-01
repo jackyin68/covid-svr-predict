@@ -1,2 +1,7 @@
 # covid-svr-predict
-covid-19 svr prediction datasets
+***
+COVID-19 SVR Regression Prediction Datasets
+
+Just for research !!!
+
+Welcome to share and pull issues.
